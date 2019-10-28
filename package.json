@@ -1,0 +1,19 @@
+{
+  "name": "tribute-page",
+  "version": "0.0.1",
+  "description": "Tribute Page - Project for Free Code Camp Certification",
+  "main": "main.js",
+  "scripts": {
+    "test": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "author": "Mateus LCM",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^2.7.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.4"
+  }
+}

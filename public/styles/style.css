@@ -1,0 +1,14 @@
+html, body{
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+}
+header{
+    padding: 50px;
+}
+.list-group>span{
+    cursor: pointer;
+}
+footer{
+    padding: 50px;
+}
